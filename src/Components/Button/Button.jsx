@@ -1,7 +1,7 @@
 
 import React from 'react';
 
-function Button({ text, onClick, className }) {
+function Button({ text, onClick }) {
 
 
     return (

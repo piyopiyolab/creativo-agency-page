@@ -21,21 +21,21 @@ export const portfolioData = [
     {
         title: "Daily App",
         description: "Increasing your productivity",
-        img: "./src/assets/portfolio/image-1.png"
+        img: "./portfolio/image-1.png"
     },
     {
         title: "Daily App",
         description: "Increasing your productivity",
-        img: "./src/assets/portfolio/image-1-1.png"
+        img: "./portfolio/image-1-1.png"
     },
     {
         title: "Daily App",
         description: "Increasing your productivity",
-        img: "./src/assets/portfolio/image-1-2.png"
+        img: "./portfolio/image-1-2.png"
     },
     {
         title: "Daily App",
         description: "Increasing your productivity",
-        img: "./src/assets/portfolio/image-1-3.png"
+        img: "./portfolio/image-1-3.png"
     },
 ]
