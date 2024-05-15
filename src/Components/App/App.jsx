@@ -41,7 +41,7 @@ function App() {
 
         </section>
 
-        <Contact id="contact" className={"container-c flex flex-row flex-wrap bg-dark-background text-slate-200"} />
+        <Contact id="contact" className={" flex flex-row flex-wrap bg-dark-background text-slate-200 !mb-0"} />
 
       </main>
       <Footer />
