@@ -4,6 +4,7 @@ import Accordeon from "../Accordeon/Accordeon"
 import Portfolio from "../Portfolio/Portfolio"
 import { portfolioData } from "../../constants/constants"
 import Contact from "../Contact/Contact"
+import Footer from "../Footer/Footer"
 
 
 function App() {
@@ -43,6 +44,7 @@ function App() {
         <Contact id="contact" className={"container-c flex flex-row flex-wrap bg-dark-background text-slate-200"} />
 
       </main>
+      <Footer />
     </>
   )
 }
