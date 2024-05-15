@@ -44,7 +44,7 @@ function Header() {
 
             <img src={logo} alt="Logo" />
 
-            {/* Mobile */}
+
             {showMenu ? (
                 <nav className={`flex ${width > breakpoint ? 'max-w-[32rem] flex-row gap-8 justify-evenly items-center' : 'flex-col '}`}>
                     <img src={closeIcon} className={`w-4 ${width > breakpoint ? 'hidden' : ''}`} alt="mobile menu close icon" onClick={showMobileMenu} />
